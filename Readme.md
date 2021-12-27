@@ -1,4 +1,8 @@
-Project Plan:
+# Project Plan:
+
+## resources
+
+Selenium scarper: https://github.com/arapfaik/scraping-glassdoor-selenium
 
 1. Data Collection
    Either create your own data set or download dataset from Kaggle or Google Data Sets
