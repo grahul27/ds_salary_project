@@ -13,3 +13,10 @@ https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-mi
 4. Idea
 5. Model Building
 6. Production
+
+Creating Virtual Environment in Anaconda
+
+1. cd FlaskAPI
+2. conda create -n flask_env python=3.7
+3. conda activate flask_env
+4. conda deactivate
